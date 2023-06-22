@@ -1,9 +1,8 @@
 async function run() {
   const config = {
     auth: {
-      clientId: 'd05c9eea-16df-49e1-a4f0-ba20a615e77b',
-      authority:
-        'https://login.microsoftonline.com/eb90a1c4-947e-462d-8072-4cd28077c2ef/',
+      clientId: '',
+      authority: 'https://login.microsoftonline.com/<tenant-id>/',
       //the authority could be: https://login.microsoftonline.com/organizations/ in case of business account
       redirectUri: 'http://localhost:8080',
     },
