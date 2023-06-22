@@ -1,0 +1,1 @@
+this folder can be use for microsoft power bi apps, just change and config the embedded api, and this can should the report 
